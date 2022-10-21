@@ -1,0 +1,8 @@
+Colocar hora de admissao no banco de dados X
+Colocar CPF da pessoa que fez a admissao do banco de dados x
+Colocar uma DropDown 
+Colocar uma notificação para nao excluir 
+
+https://www.w3schools.com/html/html_form_input_types.asp
+
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_switch
